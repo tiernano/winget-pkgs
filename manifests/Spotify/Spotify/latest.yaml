@@ -12,12 +12,12 @@ LicenseUrl: https://www.spotify.com/us/legal/end-user-agreement
 
 # ================= Installer =================
 
-Version: latest # 1.1.44.538
+Version: latest # 1.1.48.625
 InstallerType: exe
 Installers:
   - Arch: neutral
     Url: https://download.scdn.co/SpotifySetup.exe
-    Sha256: 604E5C69E0F897224D541ACEA1DDC870D1B5CBB4070BC28AD85911164A60FF03
+    Sha256: 2E53451687D82A0CA2046CC81DBD7C257019CBEE7A1E437F0FEC3F4A153B9CC8
     Switches:
       Silent: /Silent
       SilentWithProgress: /Silent
